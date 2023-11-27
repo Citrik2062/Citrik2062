@@ -5,7 +5,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Citrik2062.https://github.com/Citrik2062)
+![visitors](https://vbr.wocr.tk/badge?page_id=citrik2062)
 
 </p>
 <div size='20px'> Hi! My name is Citrik. Thank You for taking the time to view my GitHub Profile :smile: 
