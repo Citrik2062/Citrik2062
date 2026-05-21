@@ -17,7 +17,7 @@ I like building things that touch networking and security — proxies, web infra
 ### 🚀 What I'm up to
 
 - 🌱 Learning **Java** and **AWS** to round out my backend and cloud skills
-- 🔭 Building and maintaining a web-based proxy project ([tinf0il.tech](https://tinf0il.tech)) — networking, request routing, and infra
+- 🔭 Building and maintaining a web-based proxy project ([tinf0il.site](https://tinf0il.site)) — networking, request routing, and infra
 - 👯 Open to collaborating on projects in **web development, security, and AI/ML**
 - 💬 Happy to talk shop about JavaScript, web infrastructure, and security
 
