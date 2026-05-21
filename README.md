@@ -23,14 +23,6 @@ I like building things that touch networking and security — proxies, web infra
 
 ---
 
-### 📊 GitHub Stats
-
-![Akil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Citrik2062&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Citrik2062&layout=compact&theme=default&hide_border=true)
-
----
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akil-gurram-259793235/)
